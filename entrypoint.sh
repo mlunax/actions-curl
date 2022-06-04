@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/bin/ash
 
 set -e
 
-bash -c "curl --silent --show-error --fail $*"
+ash -c "curl --silent --show-error --fail $*"
